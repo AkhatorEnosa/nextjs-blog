@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+ul {
+  list-style: disc;
+  margin: 20px;
+}
